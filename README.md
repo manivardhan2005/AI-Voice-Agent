@@ -1,6 +1,4 @@
-# ElevateBox AI Voice Agent
 
-This is a working prototype for the ElevateBox SDE Intern assignment. 
 
 ## Architecture
 - **Voice AI:** Vapi 
